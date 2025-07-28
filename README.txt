@@ -1,0 +1,3 @@
+- Run npm i express
+- Run the server (node filename)
+- Run the test program, if you'd like (node filename)
