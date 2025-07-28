@@ -28,4 +28,5 @@ fetch(`http://localhost:5000/convertFtoC/${sampleTemp}`) // URL with programmati
   });
 
 UML DIAGRAM
+
 ![UML Diagram](uml-diagram.png)
