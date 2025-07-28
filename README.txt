@@ -1,8 +1,3 @@
-- Run npm i express
-- Run the server (node filename)
-- Run the test program, if you'd like (node filename)
-
-
 HOW TO REQUEST DATA
 - Clone this repo & navigate to the directory on your machine.
 - Run 'npm install express' in order to install Express, which is required to request data.
